@@ -115,7 +115,7 @@
 [![Follow on GitHub](https://img.shields.io/github/followers/ABHISHEKJULA07?label=Follow&style=social)](https://github.com/ABHISHEKJULA07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhishekjula)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/abhishekjula)
-[![Email](https://img.shields.io/badge/Email-abhishekjula018@gmail.com?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhishekjula018@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abhishekjula018@gmail.com?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhishekjula018@gmail.com).
 
 ---
 
