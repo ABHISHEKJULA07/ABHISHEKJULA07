@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ABHISHEKJULA07&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ABHISHEKJULA07&theme=radical)
 
 ---
 
