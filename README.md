@@ -14,8 +14,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=radical" alt="GitHub Profile Summary" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical" alt="GitHub Activity Graph" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ABHISHEKJULA07&theme=radical" alt="Wakatime Stats" width="90%" />
 </div>
 
 ---
