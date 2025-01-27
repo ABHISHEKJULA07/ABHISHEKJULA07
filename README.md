@@ -13,24 +13,30 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
 ## 🔥 Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=radical" alt="GitHub Streak" width="60%" />
+</div>
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++" />
+  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge" alt="R" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+</div>
 
 ---
 
@@ -58,8 +64,19 @@
 
 ---
 
+### 🎨 Featured GIF
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="60%" />
+</div>
+
+---
+
 ### 💻 Let's Connect!
-![Follow Me](https://img.shields.io/github/followers/ABHISHEKJULA07?label=Follow&style=social)
+<div align="center">
+  <a href="https://github.com/ABHISHEKJULA07">
+    <img src="https://img.shields.io/github/followers/ABHISHEKJULA07?label=Follow&style=social" alt="Follow" />
+  </a>
+</div>
 
 ---
 
