@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Jula! 👋
 
-![Banner](https://raw.githubusercontent.com/ABHISHEKJULA07/your-repo/main/assets/banner.png)
+![Banner]([https://raw.githubusercontent.com/ABHISHEKJULA07/your-repo/main/assets/banner.png](https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg))
 
 
 ## 🚀 About Me
