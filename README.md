@@ -1,6 +1,7 @@
 # Hi there, I'm Abhishek Jula! 👋
 
-![Banner](https://github.com/ABHISHEKJULA07/ABHISHEKJULA07/blob/main/assets/banner.png)
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
+
 
 ## 🚀 About Me
 - 🎓 **Recent Graduate** in **Computer Science and Business Systems** from GRIET (CGPA: 7.59).
