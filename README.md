@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Jula! 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
+![Banner](https://raw.githubusercontent.com/ABHISHEKJULA07/your-repo/main/assets/banner.png)
 
 
 ## 🚀 About Me
