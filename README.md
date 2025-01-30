@@ -1,20 +1,19 @@
 # Hi there, I'm Abhishek Jula! 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
+![Banner](https://github.com/ABHISHEKJULA07/ABHISHEKJULA07/blob/main/assets/banner.png)
 
 ## 🚀 About Me
 - 🎓 **Recent Graduate** in **Computer Science and Business Systems** from GRIET (CGPA: 7.59).
 - 💡 Passionate about leveraging **machine learning**, **data science**, and **healthcare innovation** to solve real-world problems.
 - 🛠️ Proficient in **Python**, **C++**, **Java**, **R**, and other programming languages.
 - 🌱 Continuously expanding my expertise in **AI**, **big data**, and **cloud technologies**.
-- 🔭 **Goal**: To drive innovation and create impactful solutions in the tech industry.
+- 🔝 **Goal**: To drive innovation and create impactful solutions in the tech industry.
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ABHISHEKJULA07&theme=radical)
 
 ---
 
@@ -46,7 +45,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 🐂 Featured Projects
 
 ### 📌 [Real Estate Predictor](https://github.com/ABHISHEKJULA07/real-estate-predictor)
 - Developed a **machine learning model** to predict real estate prices with high accuracy.
@@ -85,7 +84,7 @@
 - 🏆 **Certifications**:
   - **Machine Learning with Python** by IBM.
   - **Big Data Computing** by NPTEL.
-- 📫 **Reach me at**:
+- 📧 **Reach me at**:
   - **Email**: [abhishekjula018@gmail.com](mailto:abhishekjula018@gmail.com)
   - **LinkedIn**: [Abhishek Jula](https://www.linkedin.com/in/abhishekjula)
   - **Twitter**: [@abhishekjula](https://twitter.com/abhishekjula)
@@ -105,23 +104,10 @@
 
 ## 🌍 Interests
 - 🤖 **Artificial Intelligence** | 🧠 **Generative AI**  
-- ☁️ **Cloud Computing** | 🔧 **DevOps**  
-- 🎮 **AR/VR** | 🔗 **Blockchain** | 🛡️ **Cybersecurity**
+- ☁️ **Cloud Computing** | 🛠️ **DevOps**  
+- 🎮 **AR/VR** | 🗀 **Blockchain** | 🛡️ **Cybersecurity**
 
 ---
 
-### 🎨 Featured GIF
-![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
----
-
-### 💻 Let's Connect!
+### 🌟 Let's Connect!
 [![Follow on GitHub](https://img.shields.io/github/followers/ABHISHEKJULA07?label=Follow&style=social)](https://github.com/ABHISHEKJULA07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhishekjula)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/abhishekjula)
-[![Email](https://img.shields.io/badge/Email-abhishekjula018@gmail.com?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhishekjula018@gmail.com)
-
----
-
-> *"Innovation is the outcome of a habit, not a random act."*  
-> Striving to create impactful solutions and drive technological advancements.
