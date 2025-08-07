@@ -125,13 +125,6 @@
   - **LinkedIn**: [Abhishek Jula](https://www.linkedin.com/in/abhishekjula)
   - **Twitter**: [@abhishekjula](https://twitter.com/abhishekjula)
 
----
-
-## 🔧 Skills & Expertise
-**Technical Skills:**
-- 💻 **Programming**: Python, Java, C++, R, SQL, HTML/CSS/JS.
-- 📊 **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras.
-- ☁️ **Cloud & DevOps**: Docker, GitHub, Linux, CI/CD.
 
 **Soft Skills:**
 - Problem-solving, teamwork, communication, and adaptability.
@@ -146,9 +139,4 @@
 ---
 
 ### 🌟 Let's Connect!
-[![Follow on GitHub](https://img.shields.io/github/followers/ABHISHEKJULA07?label=Follow&style=social)](https://github.com/ABHISHEKJULA07)
-](https://github.com/ABHISHEKJULA07
 
-go through the url and make changes in the code acc
-
-https://github.com/ABHISHEKJULA07)
