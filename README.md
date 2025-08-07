@@ -115,6 +115,16 @@
 - 🗃️ **SQL (Intermediate) – HackerRank**  
   Scored **100%**, gained hands-on experience in joins, subqueries, aggregations, and query optimization.
 
+- 🛡️ **Cyber Security Virtual Internship – AICTE**  
+  Completed a certified internship focused on ethical hacking, network security, and secure coding practices.
+
+- 💻 **C Language Programming – Naresh i Technologies**  
+  Learned core C programming concepts including pointers, memory management, and modular programming.
+
+- 🕶️ **AR/VR Bootcamp – Hashing Innovation Network**  
+  Gained hands-on experience in Augmented and Virtual Reality development tools and frameworks.
+
+
 
 **Soft Skills:**
 - Problem-solving, teamwork, communication, and adaptability.
