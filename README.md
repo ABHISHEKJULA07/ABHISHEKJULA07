@@ -144,7 +144,6 @@
 
 ### 🌟 Let's Connect!
 - 📧 **Reach me at**:
-**Abhishek Jula** 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
 💻 [GitHub](https://github.com/ABHISHEKJULA07)  
