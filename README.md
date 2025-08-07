@@ -115,19 +115,6 @@
 - 🗃️ **SQL (Intermediate) – HackerRank**  
   Scored **100%**, gained hands-on experience in joins, subqueries, aggregations, and query optimization.
 
- 
-
-
-
-- 📧 **Reach me at**:
-**Abhishek Jula** 
-
-🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
-💻 [GitHub](https://github.com/ABHISHEKJULA07)  
-🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
-📧 abhishekjula018@gmail.com
-
-
 
 **Soft Skills:**
 - Problem-solving, teamwork, communication, and adaptability.
@@ -142,4 +129,12 @@
 ---
 
 ### 🌟 Let's Connect!
+- 📧 **Reach me at**:
+**Abhishek Jula** 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
+💻 [GitHub](https://github.com/ABHISHEKJULA07)  
+🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
+📧 abhishekjula018@gmail.com
+
 
