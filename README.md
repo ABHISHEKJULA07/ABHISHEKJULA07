@@ -120,10 +120,13 @@
 
 
 - 📧 **Reach me at**:
-- 
-  - **Email**: [abhishekjula018@gmail.com](mailto:abhishekjula018@gmail.com)
-  - **LinkedIn**: [Abhishek Jula](https://www.linkedin.com/in/abhishekjula)
-  - **Twitter**: [@abhishekjula](https://twitter.com/abhishekjula)
+**Abhishek Jula** 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
+💻 [GitHub](https://github.com/ABHISHEKJULA07)  
+🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
+📧 abhishekjula018@gmail.com
+
 
 
 **Soft Skills:**
