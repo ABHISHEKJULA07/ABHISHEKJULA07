@@ -122,9 +122,13 @@
 ---
 
 ## 🌍 Interests
-- 🤖 **Artificial Intelligence** | 🧠 **Generative AI**  
-- ☁️ **Cloud Computing** | 🛠️ **DevOps**  
-- 🎮 **AR/VR** | 🗀 **Blockchain** | 🛡️ **Cybersecurity**
+
+- 🤖 **Artificial Intelligence** | 🧠 **Generative AI** | 🧬 **Machine Learning**  
+- ☁️ **Cloud Computing** | 🛠️ **DevOps** | 🧱 **MLOps**  
+- 🎮 **AR/VR** | 🗀 **Blockchain** | 🛡️ **Cybersecurity**  
+- 🧩 **Data Science** | 📈 **Data Visualization** | 🔍 **Explainable AI (XAI)**  
+- 🧠 **Cognitive Computing** | 🚗 **Autonomous Systems** | ⚕️ **HealthTech & MedAI**  
+- 🌐 **IoT** | 📡 **Edge Computing** | 🛰️ **Smart Cities**
 
 ---
 
