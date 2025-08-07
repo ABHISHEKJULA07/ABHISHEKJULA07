@@ -1,4 +1,4 @@
-[# Hi there, I'm Abhishek Jula! 👋
+## Hi there, I'm Abhishek Jula! 👋
 
 
 ## 🚀 About Me
