@@ -59,44 +59,68 @@
 
 ## 🐂 Featured Projects
 
-### 📌 [Real Estate Predictor](https://github.com/ABHISHEKJULA07/real-estate-predictor)
-- Developed a **machine learning model** to predict real estate prices with high accuracy.
-- **Tech Stack**: Python, Pandas, Scikit-learn.
+### 📌 [E-Commerce Orders Analysis](https://github.com/ABHISHEKJULA07/E-Commerce-Orders-Analysis)
+- Performed in-depth SQL analysis on order data to uncover trends in returns, sales, and delays.
+- **Tech Stack**: SQL, MySQL.
 
-### 📌 [Medical Domain NLP](https://github.com/ABHISHEKJULA07/medical-nlp)
-- Built an **NLP-based system** to identify and classify medical domain text data.
-- **Tech Stack**: Python, NLTK, SpaCy.
+### 📌 [Employee Management System](https://github.com/ABHISHEKJULA07/Employee-Management-System)
+- Built a database app using MS Access, VBA, and SQL to manage employee details and generate reports.
+- **Tech Stack**: MS Access, VBA, SQL.
 
-### 📌 [Parking Assistant](https://github.com/ABHISHEKJULA07/parking-assistant)
-- Designed a **real-time IoT-based parking assistant** to optimize urban parking solutions.
-- **Tech Stack**: Python, Raspberry Pi, IoT.
+### 📌 [Netflix Viewing Behavior Analysis](https://github.com/ABHISHEKJULA07/netflix-viewing-behavior-analysis)
+- Created a Power BI dashboard to analyze watch history and generate personalized recommendations.
+- **Tech Stack**: Power BI, Excel, IMDb API.
 
-### 📌 [Health Prediction System](https://github.com/ABHISHEKJULA07/health-prediction)
-- Created a **predictive model** to diagnose common health conditions based on symptoms.
-- **Tech Stack**: Python, Flask, Scikit-learn.
+### 📌 [RealEstate Predictor using ML & EDA](https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA)
+- Predicted property prices in Hyderabad and Mumbai using 90K+ listings with ML and EDA.
+- **Tech Stack**: Python, Pandas, Random Forest, Matplotlib.
 
-### 📌 [Real-Time Traffic Monitoring](https://github.com/ABHISHEKJULA07/traffic-monitoring)
-- Developed a system to **monitor and analyze real-time traffic data** for smart city applications.
-- **Tech Stack**: Python, OpenCV, IoT.
+### 📌 [Medical Domain Identifier using NLP](https://github.com/ABHISHEKJULA07/medical-domain-identifier)
+- Classified patient prescriptions into medical specialties using NLP and classification models.
+- **Tech Stack**: Python, TF-IDF, PCA, Random Forest.
 
+### 📌 [Smart Parking Assistant](https://github.com/ABHISHEKJULA07/Smart-Parking-Assistant-IoT)
+- IoT-based system using ultrasonic sensors and Blynk to detect and notify real-time parking space availability.
+- **Tech Stack**: ESP32, Ultrasonic Sensor, Blynk, IoT.
+
+### 📌 [A* vs DLS](https://github.com/ABHISHEKJULA07/A-star-vs-Depth-Limited-Search)
+- Compared A* and Depth-Limited Search algorithms in terms of pathfinding efficiency and memory usage.
+- **Tech Stack**: Python, Graph Theory, AI Search Algorithms.
 ---
 
 ## 📚 Publications
-- **“Machine Learning Applications in Healthcare”**  
-  Published in *Journal of Health Informatics*  
-  *Details*: Explored the integration of machine learning algorithms to improve healthcare outcomes.
 
-- **“IoT-based Smart Parking Systems: A Comprehensive Review”**  
-  Published in *International Journal of IoT and Smart Cities*  
-  *Details*: Analyzed the role of IoT in revolutionizing urban parking solutions.
+- **"Smart Parking Assistant Integrating IoT"**  
+  Published in *E3S Web of Conferences*  
+  *Details*: Presented an IoT-based parking system using ultrasonic sensors and microcontrollers to optimize urban parking efficiency.
+
+- **"Medical Domain Identification Using NLP"**  
+  Published in *E3S Web of Conferences*  
+  *Details*: Proposed a pipeline using NLP and machine learning to classify medical transcripts into clinical domains for better patient profiling.
+
 
 ---
 
-## 🌟 Highlights
-- 🏆 **Certifications**:
-  - **Machine Learning with Python** by IBM.
-  - **Big Data Computing** by NPTEL.
+## 📜 Certifications
+
+- 🎓 **Big Data Computing – NPTEL**  
+  Scored **66%**, certified under MHRD for completing an intensive course on large-scale data processing and analytics.
+
+- 🤖 **Machine Learning with Python – IBM**  
+  Completed with **91.50%**; covered core ML algorithms including SLR, MLR, KNN, Decision Trees, Logistic Regression, and SVM.
+
+- 📊 **Data Science 101 – IBM**  
+  Completed with **93%**, focused on data analysis, visualization, and essential tools for data science workflows.
+
+- 🗃️ **SQL (Intermediate) – HackerRank**  
+  Scored **100%**, gained hands-on experience in joins, subqueries, aggregations, and query optimization.
+
+ 
+
+
+
 - 📧 **Reach me at**:
+- 
   - **Email**: [abhishekjula018@gmail.com](mailto:abhishekjula018@gmail.com)
   - **LinkedIn**: [Abhishek Jula](https://www.linkedin.com/in/abhishekjula)
   - **Twitter**: [@abhishekjula](https://twitter.com/abhishekjula)
