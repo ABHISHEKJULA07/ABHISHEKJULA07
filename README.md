@@ -1,12 +1,12 @@
 ## Hi there, I'm Abhishek Jula! 👋
 
 
-## 🚀 About Me
-- 🎓 **Recent Graduate** in **Computer Science and Business Systems** from GRIET (CGPA: 7.59).
-- 💡 Passionate about leveraging **machine learning**, **data science**, and **healthcare innovation** to solve real-world problems.
-- 🛠️ Proficient in **Python**, **C++**, **SQL** other programming languages.
-- 🌱 Continuously expanding my expertise in **AI**, **big data**, and **cloud technologies**.
-- 🔝 **Goal**: To drive innovation and create impactful solutions in the tech industry.
+##  About Me
+-  **Recent Graduate** in **Computer Science and Business Systems** from GRIET (CGPA: 7.59).
+-  Passionate about leveraging **machine learning**, **data science**, and **healthcare innovation** to solve real-world problems.
+-  Proficient in **Python**, **C++**, **SQL** other programming languages.
+-  Continuously expanding my expertise in **AI**, **big data**, and **cloud technologies**.
+-  **Goal**: To drive innovation and create impactful solutions in the tech industry.
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🐂 Featured Projects
+##  Featured Projects
 
 ### 📌 [E-Commerce Orders Analysis](https://github.com/ABHISHEKJULA07/E-Commerce-Orders-Analysis)
 - Performed in-depth SQL analysis on order data to uncover trends in returns, sales, and delays.
@@ -88,7 +88,7 @@
 - **Tech Stack**: Python, Graph Theory, AI Search Algorithms.
 ---
 
-## 📚 Publications
+##  Publications
 
 - **"Smart Parking Assistant Integrating IoT"**  
   Published in *E3S Web of Conferences*  
@@ -101,7 +101,7 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - 🎓 **Big Data Computing – NPTEL**  
   Scored **66%**, certified under MHRD for completing an intensive course on large-scale data processing and analytics.
