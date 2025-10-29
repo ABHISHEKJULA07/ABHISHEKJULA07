@@ -1,12 +1,14 @@
-## Hi there, I'm Abhishek Jula! 👋
+## Hey there, I'm Abhishek Jula! 👋
 
 
-##  About Me
--  **Recent Graduate** in **Computer Science and Business Systems** from GRIET (CGPA: 7.59).
--  Passionate about leveraging **machine learning**, **data science**, and **healthcare innovation** to solve real-world problems.
--  Proficient in **Python**, **C++**, **SQL** other programming languages.
--  Continuously expanding my expertise in **AI**, **big data**, and **cloud technologies**.
--  **Goal**: To drive innovation and create impactful solutions in the tech industry.
+## 🧠 About Me  
+
+- **Recent Computer Science and Business Systems graduate** from **GRIET (CGPA: 7.59)** with a strong foundation in **data-driven decision-making**.  
+- Passionate about applying **Machine Learning**, **Deep Learning**, and **Predictive Analytics** to real-world challenges.  
+- Proficient in **Python**, **SQL**, and libraries like **NumPy**, **Pandas**, **Scikit-learn**, and **TensorFlow**.  
+- Experienced in **EDA**, **Model Building**, and **Data Visualization** for actionable insights.  
+- Expanding expertise in **AI**, **Big Data**, and **Cloud-based solutions**.  
+- **Goal:** To leverage **Data Science** and **AI** for impactful, scalable innovations.  
 
 ---
 
