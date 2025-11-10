@@ -44,7 +44,6 @@
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MS Access](https://img.shields.io/badge/-MS%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
 
 **Developer Tools:**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
@@ -64,10 +63,6 @@
 ### 📌 [E-Commerce Orders Analysis](https://github.com/ABHISHEKJULA07/E-Commerce-Orders-Analysis)
 - Performed in-depth SQL analysis on order data to uncover trends in returns, sales, and delays.
 - **Tech Stack**: SQL, MySQL.
-
-### 📌 [Employee Management System](https://github.com/ABHISHEKJULA07/Employee-Management-System)
-- Built a database app using MS Access, VBA, and SQL to manage employee details and generate reports.
-- **Tech Stack**: MS Access, VBA, SQL.
 
 ### 📌 [Netflix Viewing Behavior Analysis](https://github.com/ABHISHEKJULA07/netflix-viewing-behavior-analysis)
 - Created a Power BI dashboard to analyze watch history and generate personalized recommendations.
@@ -90,41 +85,6 @@
 - **Tech Stack**: Python, Graph Theory, AI Search Algorithms.
 ---
 
-##  Publications
-
-- **"Smart Parking Assistant Integrating IoT"**  
-  Published in *E3S Web of Conferences*  
-  *Details*: Presented an IoT-based parking system using ultrasonic sensors and microcontrollers to optimize urban parking efficiency.
-
-- **"Medical Domain Identification Using NLP"**  
-  Published in *E3S Web of Conferences*  
-  *Details*: Proposed a pipeline using NLP and machine learning to classify medical transcripts into clinical domains for better patient profiling.
-
-
----
-
-##  Certifications
-
-- 🎓 **Big Data Computing – NPTEL**  
-  Scored **66%**, certified under MHRD for completing an intensive course on large-scale data processing and analytics.
-
-- 🤖 **Machine Learning with Python – IBM**  
-  Completed with **91.50%**; covered core ML algorithms including SLR, MLR, KNN, Decision Trees, Logistic Regression, and SVM.
-
-- 📊 **Data Science 101 – IBM**  
-  Completed with **93%**, focused on data analysis, visualization, and essential tools for data science workflows.
-
-- 🗃️ **SQL (Intermediate) – HackerRank**  
-  Scored **100%**, gained hands-on experience in joins, subqueries, aggregations, and query optimization.
-
-- 🛡️ **Cyber Security Virtual Internship – AICTE**  
-  Completed a certified internship focused on ethical hacking, network security, and secure coding practices.
-
-- 💻 **C Language Programming – Naresh i Technologies**  
-  Learned core C programming concepts including pointers, memory management, and modular programming.
-
-- 🕶️ **AR/VR Bootcamp – Hashing Innovation Network**  
-  Gained hands-on experience in Augmented and Virtual Reality development tools and frameworks.
 
 
 
