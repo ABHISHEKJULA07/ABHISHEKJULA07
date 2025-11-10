@@ -1,8 +1,5 @@
 ## Hey there, I'm Abhishek Jula! 👋
 
-
-## 🧠 About Me  
-
 - **Recent Computer Science Grad** from **GRIET (CGPA: 7.59)** with a strong foundation in **data-driven decision-making**.  
 - Passionate about applying **Machine Learning**, **Deep Learning**, and **Predictive Analytics** to real-world challenges.  
 - Proficient in **Python**, **SQL**, and libraries like **NumPy**, **Pandas**, **Scikit-learn**, and **TensorFlow**.  
