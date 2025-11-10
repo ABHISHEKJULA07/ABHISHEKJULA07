@@ -52,39 +52,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 
-
----
-
-##  Featured Projects
-
-### 📌 [E-Commerce Orders Analysis](https://github.com/ABHISHEKJULA07/E-Commerce-Orders-Analysis)
-- Performed in-depth SQL analysis on order data to uncover trends in returns, sales, and delays.
-- **Tech Stack**: SQL, MySQL.
-
-### 📌 [Netflix Viewing Behavior Analysis](https://github.com/ABHISHEKJULA07/netflix-viewing-behavior-analysis)
-- Created a Power BI dashboard to analyze watch history and generate personalized recommendations.
-- **Tech Stack**: Power BI, Excel, IMDb API.
-
-### 📌 [RealEstate Predictor using ML & EDA](https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA)
-- Predicted property prices in Hyderabad and Mumbai using 90K+ listings with ML and EDA.
-- **Tech Stack**: Python, Pandas, Random Forest, Matplotlib.
-
-### 📌 [Medical Domain Identifier using NLP](https://github.com/ABHISHEKJULA07/medical-domain-identifier)
-- Classified patient prescriptions into medical specialties using NLP and classification models.
-- **Tech Stack**: Python, TF-IDF, PCA, Random Forest.
-
-### 📌 [Smart Parking Assistant](https://github.com/ABHISHEKJULA07/Smart-Parking-Assistant-IoT)
-- IoT-based system using ultrasonic sensors and Blynk to detect and notify real-time parking space availability.
-- **Tech Stack**: ESP32, Ultrasonic Sensor, Blynk, IoT.
-
-### 📌 [A* vs DLS](https://github.com/ABHISHEKJULA07/A-star-vs-Depth-Limited-Search)
-- Compared A* and Depth-Limited Search algorithms in terms of pathfinding efficiency and memory usage.
-- **Tech Stack**: Python, Graph Theory, AI Search Algorithms.
----
-
-
-
-
 **Soft Skills:**
 - Problem-solving, teamwork, communication, and adaptability.
 
