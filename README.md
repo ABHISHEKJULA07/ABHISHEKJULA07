@@ -51,10 +51,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
-
-**Soft Skills:**
-- Problem-solving, teamwork, communication, and adaptability.
-
 ---
 
 ## 🌍 Interests
