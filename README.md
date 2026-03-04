@@ -1,20 +1,6 @@
 ## Hey there, I'm Abhishek Jula! 👋
 
 
-
----
-
-## 📊 GitHub Stats
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical)
-
----
-
-## 🔥 Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=radical)
-
----
-
 ## 🛠️ Tools & Technologies
 
 **Languages:**  
@@ -45,6 +31,20 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical)
+
+---
+
+## 🔥 Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=radical)
+
+---
+
 
 
 ---
