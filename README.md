@@ -1,17 +1,8 @@
 # 👋 I'm Abhishek Jula
 
-### **Data Scientist | AI Engineer | RPA Specialist**
+### **| AI Engineer |**
 
-Highly analytical professional with **5 years of experience in Robotic Process Automation (RPA)** and a strong academic foundation in **Computer Science**. I specialize in bridging the gap between legacy process automation and modern **Artificial Intelligence** to build scalable, intelligent systems.
-
----
-
-## 🚀 Professional Profile
-- 🧠 **Data Science:** Proficient in EDA, Model Building, and Predictive Analytics.
-- 🤖 **AI & Deep Learning:** Experienced in TensorFlow, Keras, and OpenCV for Neural Networks and Computer Vision.
-- ⚙️ **Automation:** 5+ years optimizing enterprise workflows using RPA and VBA.
-- 🛠️ **Deployment:** Focused on MLOps, Containerization (Docker), and Cloud-based solutions.
-- 🎯 **Goal:** Leveraging Explainable AI (XAI) and Generative AI to drive impactful business innovations.
+ I specialize in bridging the gap between legacy process automation and modern **Artificial Intelligence** to build scalable, intelligent systems.
 
 ---
 
