@@ -1,11 +1,6 @@
 ## Hey there, I'm Abhishek Jula! 👋
 
-- **Recent Computer Science Grad** from **GRIET (CGPA: 7.59)** with a strong foundation in **data-driven decision-making**.  
-- Passionate about applying **Machine Learning**, **Deep Learning**, and **Predictive Analytics** to real-world challenges.  
-- Proficient in **Python**, **SQL**, and libraries like **NumPy**, **Pandas**, **Scikit-learn**, and **TensorFlow**.  
-- Experienced in **EDA**, **Model Building**, and **Data Visualization** for actionable insights.  
-- Expanding expertise in **AI**, **Big Data**, and **Cloud-based solutions**.  
-- **Goal:** To leverage **Data Science** and **AI** for impactful, scalable innovations.  
+
 
 ---
 
@@ -51,25 +46,13 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
----
-
-## 🌍 Interests
-
-- 🤖 **Artificial Intelligence** | 🧠 **Generative AI** | 🧬 **Machine Learning**  
-- ☁️ **Cloud Computing** | 🛠️ **DevOps** | 🧱 **MLOps**  
-- 🎮 **AR/VR** | 🗀 **Blockchain** | 🛡️ **Cybersecurity**  
-- 🧩 **Data Science** | 📈 **Data Visualization** | 🔍 **Explainable AI (XAI)**  
-- 🧠 **Cognitive Computing** | 🚗 **Autonomous Systems** | ⚕️ **HealthTech & MedAI**  
-- 🌐 **IoT** | 📡 **Edge Computing** | 🛰️ **Smart Cities**
 
 ---
 
 ### 🌟 Let's Connect!
 - 📧 **Reach me at**:
   
-🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
-💻 [GitHub](https://github.com/ABHISHEKJULA07)  
-🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
-📧 abhishekjula018@gmail.com
+[LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
+abhishekjula018@gmail.com
 
 
