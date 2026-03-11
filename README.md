@@ -27,8 +27,8 @@ Aspiring AI/ML Engineer with a strong foundation in Computer Science, skilled in
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABHISHEKJULA07/ABHISHEKJULA07/output/github-contribution-grid-snake-dark.svg" />
-</p>
+  <img src="https://raw.githubusercontent.com/ABHISHEKJULA07/ABHISHEKJULA07/output/github-contribution-grid-snake.svg" />
+</p>>
 
 ---
 ## 📫 Connect With Me
