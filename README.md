@@ -1,5 +1,4 @@
-###👋 I'm Abhishek Jula | ![](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue) ###
-
+### 👋 I'm Abhishek Jula | ![](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue)
 ### **AI Engineer**
 
 Aspiring **AI / Machine Learning Engineer** with a strong foundation in Computer Science, skilled in **Python, machine learning, and data analysis**.  
