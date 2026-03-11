@@ -1,5 +1,5 @@
 ### 👋 I'm Abhishek Jula | ![](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue)
-### **AI Engineer**
+### **AIML Engineer**
 
 Aspiring **AI / Machine Learning Engineer** with a strong foundation in Computer Science, skilled in **Python, machine learning, and data analysis**.  
 Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, and Keras**, with a strong interest in building **intelligent, data-driven solutions and scalable AI applications.**
