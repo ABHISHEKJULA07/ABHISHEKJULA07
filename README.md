@@ -1,4 +1,4 @@
-# 👋 I'm Abhishek Jula | ![](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue)
+#👋 I'm Abhishek Jula | ![](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue)
 
 ### **AI Engineer**
 
@@ -6,12 +6,8 @@ Aspiring **AI / Machine Learning Engineer** with a strong foundation in Computer
 Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, and Keras**, with a strong interest in building **intelligent, data-driven solutions and scalable AI applications.**
 
 ---
-## 📊 GitHub Metrics
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ABHISHEKJULA07/ABHISHEKJULA07/main/github-metrics.svg" width="100%"/>
-</p>
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -53,7 +49,7 @@ Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, an
 
 
 
-# 📫 Connect With Me
+#📫 Connect With Me
 
 I am always open to **collaborating on open-source projects and AI innovations.**
 
