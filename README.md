@@ -5,6 +5,7 @@
 
 Aspiring AI/ML Engineer with a strong foundation in Computer Science, skilled in Python, machine learning, and data analysis. Experienced with libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and Keras, with a strong interest in building intelligent, data-driven solutions and scalable AI applications.
 
+![](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue)
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -25,7 +26,12 @@ Aspiring AI/ML Engineer with a strong foundation in Computer Science, skilled in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical" width="100%" />
 </p>
 
+## 🔬 Currently Exploring
 
+• Advanced Deep Learning Architectures  
+• Large Language Models (LLMs)  
+• MLOps & Model Deployment  
+• AI System Design
 ---
 ## 📫 Connect With Me
 I am always open to collaborating on open-source projects or discussing the future of AI and MLOps.
