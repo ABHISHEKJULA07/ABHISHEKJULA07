@@ -24,7 +24,11 @@ Aspiring AI/ML Engineer with a strong foundation in Computer Science, skilled in
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical" width="100%" />
 </p>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABHISHEKJULA07/ABHISHEKJULA07/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 ## 📫 Connect With Me
