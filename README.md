@@ -18,12 +18,16 @@ Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, an
 
 ---
 
+📊 GitHub Analytics
 ## 📊 GitHub Analytics
 
+<p align="left">
 <p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </p>
@@ -40,17 +44,33 @@ Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, an
 
 </p>
 
+<p align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=ABHISHEKJULA07&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical" width="100%" />
+
+</p>
+
+
 
 📫 Connect With Me
 
 I am always open to **collaborating on open-source projects and AI innovations.**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-jula0711)
+## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhipinku66.wixsite.com/07112000)
+<p align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekjula018@gmail.com)
+<a href="https://www.linkedin.com/in/abhi-jula0711">
+<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Jula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://abhipinku66.wixsite.com/07112000">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:abhishekjula018@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ---
