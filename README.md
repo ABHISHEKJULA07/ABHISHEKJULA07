@@ -34,9 +34,9 @@ Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, an
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=radical" width="49%" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=radical" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=radical" width="49%" />
 
 </p>
 
