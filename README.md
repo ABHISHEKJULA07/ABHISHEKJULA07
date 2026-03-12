@@ -20,10 +20,10 @@ Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, an
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<p align="left">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-
+<p align="right">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </p>
