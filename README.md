@@ -30,24 +30,6 @@ Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, an
 
 ---
 
-📈 Performance Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=radical" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=radical" width="49%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=radical" width="100%" />
-
-</p>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ABHISHEKJULA07&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-
 📫 Connect With Me
 
 I am always open to **collaborating on open-source projects and AI innovations.**
