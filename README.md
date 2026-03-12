@@ -56,9 +56,9 @@ Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, an
 
 I am always open to **collaborating on open-source projects and AI innovations.**
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/abhi-jula0711">
 <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Jula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -73,4 +73,4 @@ I am always open to **collaborating on open-source projects and AI innovations.*
 </a>
 
 </p>
----
+
