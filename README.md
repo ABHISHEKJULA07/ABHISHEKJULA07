@@ -19,7 +19,6 @@ Experienced with libraries such as **NumPy, Pandas, Scikit-learn, TensorFlow, an
 ---
 
 📊 GitHub Analytics
-## 📊 GitHub Analytics
 
 <p align="left">
 <p align="center">
