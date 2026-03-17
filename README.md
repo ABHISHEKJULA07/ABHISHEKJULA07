@@ -60,8 +60,9 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=tokyonight&hide_border=true" />
+  
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
