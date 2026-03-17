@@ -19,7 +19,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-## 🧠 AI / Machine Learning & Libraries
+# 🧠 AI / Machine Learning & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge" />
