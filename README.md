@@ -1,17 +1,11 @@
-# 👋 Hi, I'm Abhishek Jula <p align="center">
+### 👋 Hi, I'm Abhishek Jula  <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 **AI / Machine Learning Engineer**
 
 I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driven solutions and scalable applications. With a strong foundation in Computer Science, I specialize in transforming complex data into actionable insights using modern machine learning frameworks.
 
----
 
-### 🚀 Quick Glance
-* 🔭 **Current Focus:** Deep Learning & Scalable AI Architectures.
-* 🌱 **Learning:** Advanced NLP and LLM Fine-tuning.
-* 👯 **Collaboration:** Open for Open-Source projects and AI innovations.
-* 💬 **Ask me about:** Python, Scikit-learn, TensorFlow, and Data Analytics.
 
 ---
 
@@ -29,12 +23,12 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=tokyonight" />
 </p>
