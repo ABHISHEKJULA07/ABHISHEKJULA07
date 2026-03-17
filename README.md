@@ -9,7 +9,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -18,7 +18,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
-### 🧠 AI / Machine Learning & Libraries
+## 🧠 AI / Machine Learning & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge" />
@@ -30,7 +30,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
 </p>
-### 🌐 Web & Databases
+## 🌐 Web & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -38,7 +38,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-### ⚙️ DevOps & Tools
+## ⚙️ DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
