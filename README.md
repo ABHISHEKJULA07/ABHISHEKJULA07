@@ -1,5 +1,3 @@
-To get the profile views to sit on the same line as your name, you can wrap them in a header tag or use a simple paragraph tag with align="left".
-
 # 👋 Hi, I'm Abhishek Jula | ![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 
@@ -20,7 +18,6 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
-
 ### 🧠 AI / Machine Learning & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
@@ -33,7 +30,6 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
 </p>
-
 ### 🌐 Web & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -42,7 +38,6 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
 ### ⚙️ DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
