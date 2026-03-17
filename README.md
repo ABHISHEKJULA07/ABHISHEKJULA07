@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhishek Jula <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
-### **AI / Machine Learning Engineer**
+**AI / Machine Learning Engineer**
 
 I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driven solutions and scalable applications. With a strong foundation in Computer Science, I specialize in transforming complex data into actionable insights using modern machine learning frameworks.
 
@@ -31,7 +31,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
