@@ -31,6 +31,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
 </p>
+
 ### 🌐 Web & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -39,6 +40,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 ### ⚙️ DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
