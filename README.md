@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abhishek Jula
+# 👋 Hi, I'm Abhishek Jula | ![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 **AI / Machine Learning Engineer**
 
 I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driven solutions and scalable applications. With a strong foundation in Computer Science, I specialize in transforming complex data into actionable insights using modern machine learning frameworks.
