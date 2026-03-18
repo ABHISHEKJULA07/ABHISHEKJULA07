@@ -90,4 +90,71 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 <a href="https://github.com/ABHISHEKJULA07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+# 👋 Hi, I'm Abhishek Jula | ![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue&style=flat-square&label=PROFILE+VIEWS)
+### **AI / Machine Learning Engineer**
 
+I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driven solutions. I specialize in transforming complex data into insights using modern ML frameworks and scalable architectures.
+
+---
+
+## 🛠️ Technical Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 AI & Machine Learning</h4>
+      <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Dev</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Contribution Dashboard
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKJULA07&theme=tokyonight&area=true&hide_border=true" width="98%" />
+</p>
+
+---
+
+## 🤝 Connect & Insights
+
+<table border="0" width="100%">
+  <tr>
+    <td align="left" width="50%" valign="middle">
+      <a href="https://www.linkedin.com/in/abhi-jula0711">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a><br><br>
+      <a href="https://abhipinku66.wixsite.com/07112000">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+      </a><br><br>
+      <a href="mailto:abhishekjula018@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+    <td align="right" width="50%" valign="middle">
+      <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
