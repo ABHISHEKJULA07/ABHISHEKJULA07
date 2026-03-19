@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhishek Jula | ![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKJULA07&color=blue&style=flat-square&label=PROFILE+VIEWS)
+# 👋 Hi, I'm Abhishek Jula 
 
 
 **AI / Machine Learning Engineer**
