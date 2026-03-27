@@ -19,6 +19,7 @@ Bachelor of Technology (B.Tech) in CSE
 
 ## Contact
 Email:abhishekjula018@gmail.com
+
 LinkedIn: www.linkedin.com/in/abhi-jula0711 
 
 ## Interests
