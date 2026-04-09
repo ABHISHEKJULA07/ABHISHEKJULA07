@@ -78,14 +78,6 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 
 ---
 
-## 💻 Top Languages
-
-<p align="left">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
@@ -94,8 +86,4 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 <a href="mailto:abhishekjula018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 💻 Top Languages
 
-<p align="left">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
