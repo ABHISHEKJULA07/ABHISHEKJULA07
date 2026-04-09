@@ -58,7 +58,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 ### 📊 GitHub Analytics
 
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=tokyonight" />
 </p>
 
