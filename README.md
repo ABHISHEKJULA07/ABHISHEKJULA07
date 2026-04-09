@@ -52,11 +52,15 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="left">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKJULA07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKJULA07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHISHEKJULA07&theme=tokyonight" />
 </p>
 
 ## 🔥 GitHub Streak
@@ -74,10 +78,10 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 </p>
 
 ---
-## 💻 Top Languages
+## 💻 Most Used Languages
 
-<p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
