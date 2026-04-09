@@ -1,27 +1,11 @@
 # 👋 Hi, I'm Abhishek Jula 
-# Hi 👋, I'm Abhishek Jula
 
-## 🚀 About Me
-- 🎓 AIML Student / Graduate
-- 💻 Interested in AI, Machine Learning, and Data Science
-- 🌱 Currently learning Python, SQL, and ML
 
 **AI / Machine Learning Engineer**
-## 🛠️ Skills
-- Programming: Python, C, SQL
-- Libraries: NumPy, Pandas, Scikit-learn
-- Tools: Git, MySQL
 
 I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driven solutions and scalable applications. With a strong foundation in Computer Science, I specialize in transforming complex data into actionable insights using modern machine learning frameworks.
-## 📂 Projects
-- 📊 E-Commerce Order Analysis (SQL Project)
-- 🤖 Medical Domain Identification using NLP
-- 🚗 Smart Parking System (IoT)
 
 ---
-## 📫 Contact Me
-- 📧 Email: your-email@gmail.com
-- 🔗 LinkedIn: your-linkedin-link
 
 ## 🛠️ Tech Stack
 
@@ -104,5 +88,3 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 <a href="https://abhipinku66.wixsite.com/07112000"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="mailto:abhishekjula018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-## ⚡ Fun Fact
-I love building real-world AI projects 🚀
