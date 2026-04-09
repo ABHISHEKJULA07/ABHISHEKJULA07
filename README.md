@@ -81,8 +81,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 ## 💻 Top Languages
 
 <p align="left">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKJULA07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /></p>
 
 ---
 
