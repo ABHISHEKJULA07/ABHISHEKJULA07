@@ -6,7 +6,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ## 💻 Programming Languages
 
