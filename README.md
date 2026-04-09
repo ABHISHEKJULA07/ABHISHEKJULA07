@@ -22,8 +22,8 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 ### 🧠 AI / Machine Learning & Libraries
 
 <p align="left">
-<img src="[https://img.shields.io/badge/Machine Learning-102230?style=for-the-badge](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)" />
-<img src="[https://img.shields.io/badge/Deep Learning-0A66C2?style=for-the-badge](https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge)" />
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -48,9 +48,9 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 <p align="left">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="[https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)" />
-<img src="[https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -91,5 +91,5 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 <p align="left">
 <a href="https://www.linkedin.com/in/abhi-jula0711"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://abhipinku66.wixsite.com/07112000"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a [href="mailto:abhishekjula018@gmail.com](mailto:href=%22mailto:abhishekjula018@gmail.com)"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:abhishekjula018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
