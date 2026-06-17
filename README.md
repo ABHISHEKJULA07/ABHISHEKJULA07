@@ -77,8 +77,7 @@ I am an aspiring **AI/ML Engineer** dedicated to building intelligent, data-driv
 </p>
 
 ---
-
-### 🤝 Connect With Me
+e
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abhi-jula0711"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
